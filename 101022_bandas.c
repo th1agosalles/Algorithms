@@ -48,7 +48,7 @@ void pesquisaBanda(BANDA *search){
     }
     
     while(achou==0){
-    	printf("\nBanda n„o encontrada. Digite outro estilo:");
+    	printf("\nBanda n√£o encontrada. Digite outro estilo:");
     	scanf("%s", aux);
     
 	    for (i=0;i<TAM;i++){
