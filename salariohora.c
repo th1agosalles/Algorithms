@@ -1,7 +1,7 @@
 /******************************************************************************
-
+Thiago Sales de Oliveira
 Primeira aula de AED II
-
+Cálculo do salário mensal de um funcionário
 *******************************************************************************/
 #include <stdio.h>
 #include <locale.h>
