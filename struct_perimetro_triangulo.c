@@ -1,4 +1,6 @@
-//Atividade 4 - Structs - PERIMETRO DO TRIANGULO//
+//Atividade 4 - Structs - PERIMETRO DO TRIANGULO
+//Recebe 3 pontos de um triangulo e calcula o perímetro. 
+
 #include <stdio.h>
 #include <math.h>
 #define QTD_PONTOS 3
