@@ -1,4 +1,5 @@
-/*Aula 12/09/22 - Passagem de Parametros por Referencia*/
+/*Thiago Sales de Oliveira
+Aula 12/09/22 - Passagem de Parametros por Referencia*/
 
 #include <stdio.h>
 void soma (int a, int b, int *resultado) {
