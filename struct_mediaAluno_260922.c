@@ -1,5 +1,6 @@
 /******************************************************************************
-Struct - Exemplo M�dia aluno
+Thiago Sales de Oliveira
+Struct - Exemplo de cálculo de Média aluno e saída com o boletim geral.
 
 *******************************************************************************/
 #include <stdio.h>
