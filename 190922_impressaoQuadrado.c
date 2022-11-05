@@ -1,4 +1,5 @@
-/*Aula 19/09/22 - Impressao de Quadrado de Caracteres*/
+/*Thiago Sales de Oliveira
+Aula 19/09/22 - Impressao de Quadrado de Caracteres*/
 
 #include <stdio.h>
 int imprime (char var, int x) {
