@@ -1,5 +1,6 @@
-//Atividade 4 - Structs - PERIMETRO DO TRIANGULO
-//Recebe 3 pontos de um triangulo e calcula o perímetro. 
+/* Thiago Sales de Oliveira
+Atividade 4 - Structs - PERIMETRO DO TRIANGULO
+Recebe 3 pontos de um triangulo e calcula o perímetro. */
 
 #include <stdio.h>
 #include <math.h>
