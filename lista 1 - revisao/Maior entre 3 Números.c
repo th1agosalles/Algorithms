@@ -1,4 +1,8 @@
-//Ex1 - Maior entre 3 numeros//
+/*      Thiago Sales de Oliveira
+Ex1 - Maior entre 3 numeros
+Implemente um programa que leia 3 números inteiros e informe em qual posição se encontra o maior dentre
+eles. Exemplo: se os números lidos forem 10, 30, 14 a saída deve ser: posição 2.*/
+
 #include <stdio.h>
 #include <locale.h>
 
