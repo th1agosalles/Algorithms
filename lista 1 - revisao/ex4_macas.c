@@ -1,5 +1,7 @@
-/*As maçãs custam R $1,30 cada se forem compradas menos de uma dúzia, e R $1,00 se forem compradas pelo
-menos 12. Escreva um programa que leia o número de maçãs compradas e escreva o custo total da compra.*/
+/*		Thiago Sales de Oliveira
+As maÃ§Ã£s custam R $1,30 cada se forem compradas menos de uma dÃºzia, e R $1,00 se forem compradas pelo
+menos 12. Escreva um programa que leia o nÃºmero de maÃ§Ã£s compradas e escreva o custo total da compra.*/
+
 #include <stdio.h>
 #include <locale.h>
 
@@ -8,7 +10,7 @@ int main(){
 	float valormaca, total;
 	int macas;
 	
-	printf("Digite o número de maçãs:\n");
+	printf("Digite o nÃºmero de maÃ§Ã£s:\n");
 	scanf("%d",&macas);
 	
 	if(macas<12){
