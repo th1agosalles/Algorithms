@@ -1,13 +1,14 @@
-/*Implementar o tipo de dado Produto que ser· usado em um um sistema, para um
-supermercado, que cadastre produtos e seus preÁos.
+/*      Thiago Sales de Oliveira
+Implementar o tipo de dado Produto que ser√° usado em um um sistema, para um
+supermercado, que cadastre produtos e seus pre√ßos.
 
 Nome do Registro: Produto
 
-Campos:Para registrar um produto vamos precisar do seu nome e o seu preÁo. Mas como
+Campos:Para registrar um produto vamos precisar do seu nome e o seu pre√ßo. Mas como
 identificar um produto cadastrado? Quando vamos no supermercado e compramos alguma
-mercadoria no peso, o caixa do supermercado precisa fornecer um cÛdigo para cadastrar o
-produto pesado. Geralmente ele utiliza uma tabela, onde h· o nome do produto e o seu cÛdigo.
-Para a essa aplicaÁ„o vamos utilizar este mesmo cÛdigo para identificar unicamente cada
+mercadoria no peso, o caixa do supermercado precisa fornecer um c√≥digo para cadastrar o
+produto pesado. Geralmente ele utiliza uma tabela, onde h√° o nome do produto e o seu c√≥digo.
+Para a essa aplica√ß√£o vamos utilizar este mesmo c√≥digo para identificar unicamente cada
 produto.*/
 
 #include <stdio.h>
