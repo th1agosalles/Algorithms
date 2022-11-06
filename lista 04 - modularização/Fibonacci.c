@@ -1,4 +1,5 @@
-/*Faça uma função que calcule o n-ésimo termo da série de Fibonacci. O protótipo as função é int Fibonacci(int n).*/
+/*      Thiago Sales de Oliveira
+FaÃ§a uma funÃ§Ã£o que calcule o n-Ã©simo termo da sÃ©rie de Fibonacci. O protÃ³tipo as funÃ§Ã£o Ã© int Fibonacci(int n).*/
 
 #include <stdio.h>
 
