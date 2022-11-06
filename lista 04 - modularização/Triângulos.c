@@ -1,4 +1,5 @@
-/*Faça um programa que receba os três lados de um triângulo e faça as seguintes atividades: retornar se os três lados
+/*      Thiago Sales de Oliveira
+Faça um programa que receba os três lados de um triângulo e faça as seguintes atividades: retornar se os três lados
 realmente formam um triângulo e que tipo de triângulo é este. Cada uma destas atividades deve ser uma função.*/
 
 #include <stdio.h>
