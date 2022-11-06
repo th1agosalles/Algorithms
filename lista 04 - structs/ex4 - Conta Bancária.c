@@ -1,13 +1,14 @@
-/*Um sistema banc·rio manipula dois dados principais: cliente e conta. Implemente esses dois
+/*      Thiago Sales de Oliveira
+Um sistema banc√°rio manipula dois dados principais: cliente e conta. Implemente esses dois
 tipos de dados em C.
 
 Nomes dos Registros: Cliente e Conta.
 
-Campos: O nome do cliente È uma informaÁ„o relevante. O CPF poder· ser utilizado para
+Campos: O nome do cliente √© uma informa√ß√£o relevante. O CPF poder√° ser utilizado para
 diferenciar clientes com o mesmo nome. Como identificar a conta do cliente? Cada conta
-poderia ter um n˙mero de conta ˙nico, que serviria para identificar a conta do cliente.
-Cada conta ter· um saldo, que ser· gerenciada pelo sistema. Como cada cliente pode possuir
-mais de uma conta banc·ria, junto com a conta deveremos registrar qual cliente È o dono dela.
+poderia ter um n√∫mero de conta √∫nico, que serviria para identificar a conta do cliente.
+Cada conta ter√° um saldo, que ser√° gerenciada pelo sistema. Como cada cliente pode possuir
+mais de uma conta banc√°ria, junto com a conta deveremos registrar qual cliente √© o dono dela.
 Vamos utilizar o CPF do cliente na conta para identificar o seu dono.*/
 
 #include <stdio.h>
