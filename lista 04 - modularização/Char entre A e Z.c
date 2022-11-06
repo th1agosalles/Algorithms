@@ -1,4 +1,5 @@
-/*Crie uma função que determine se dado caracter está entre ‘a’ e ‘z’. Dica: Use a tabela ASCII.*/  
+/*      Thiago Sales de Oliveira
+Crie uma função que determine se dado caracter está entre ‘a’ e ‘z’. Dica: Use a tabela ASCII.*/  
 
 #include <stdio.h>
 
