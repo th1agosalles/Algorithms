@@ -1,4 +1,5 @@
-/*Em uma disciplina onde os alunos possuem duas notas, e precisamos registrar e calcular as
+/*  Thiago Sales de Oliveira
+Em uma disciplina onde os alunos possuem duas notas, e precisamos registrar e calcular as
 médias de todos eles, como seria um registro para representar esta situação? Implemente o
 tipo de dado Aluno em C.*/
 
