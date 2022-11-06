@@ -1,4 +1,5 @@
-/*Ler 2 valores, calcular e escrever a soma dos inteiros existentes entre os 2 valores lidos (incluindo os valores
+/*		Thiago Sales de Oliveira
+Ler 2 valores, calcular e escrever a soma dos inteiros existentes entre os 2 valores lidos (incluindo os valores
 lidos na soma).*/
 
 #include <stdio.h>
@@ -18,7 +19,7 @@ int main(){
 		soma=soma+i;	
 	}
 	
-	printf("\nSoma entre esses números: %d",soma);
+	printf("\nSoma entre esses nÃºmeros: %d",soma);
 
 	return 0;
 }
