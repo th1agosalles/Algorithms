@@ -1,3 +1,7 @@
+/*	Thiago Sales de Oliveira
+Criar uma struct que guarde os dados de uma banda, criar uma função que leia-os
+e outra para pesquisar se o estilo desejado encontra-se no vetor.*/
+
 #include <stdio.h>
 #include <string.h>
 #define TAM 3
