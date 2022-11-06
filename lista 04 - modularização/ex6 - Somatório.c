@@ -1,3 +1,10 @@
+/*      Thiago Sales de Oliveira
+Faça uma função que retorne o resultado do somatório abaixo, sendo n o parâmetro de entrada da função.
+
+∑(5 ∗ i^2 +2 ∗ i + 8)
+n
+i=1
+*/
 
 #include <stdio.h>
 
